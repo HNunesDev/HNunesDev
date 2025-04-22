@@ -4,4 +4,4 @@
 
 ![HNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=HNunesDev&show_icons=true&theme=dracula&count_private=true)
 
-Um estudante com muita curiosidade e vontade! 😉
+Uma pessoa com muita curiosidade e vontade! 😉
